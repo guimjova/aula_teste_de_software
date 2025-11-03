@@ -1,1 +1,2 @@
-# aula_teste_de_software
+# Arquitetura Integrada de TI - Teste de Software
+Engenharia de Controle e Automação
